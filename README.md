@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 . This is the word guessing game using python (Hangman Game)
 
 <!--
 **shiv26-coder/shiv26-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
